@@ -2,7 +2,7 @@ export default function Home() {
   return (
   <>
     <div className='header'> 
-      <h1 className='name'>DEVS LEARNING</h1>
+      <h1 className='name'>DEVS LEARNING Test</h1>
       <ul className='menu'>
         <li>Inicio</li>
         <li>Productos</li>
@@ -11,6 +11,8 @@ export default function Home() {
         <li>Contacto</li>
       </ul>
     </div>
+
+
   </>
   );
 }
