@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.name {
+    display: inline-block;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 20px;
+}
